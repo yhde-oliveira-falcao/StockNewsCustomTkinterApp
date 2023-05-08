@@ -5,8 +5,8 @@ import requests as requests
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API_KEY = "9ZCN4JMKEJGNMYJN"
-NEWS_API_KEY = "4a30e3d7d1b54f8d96c6abcf9085f4dc"
+STOCK_API_KEY = ""
+NEWS_API_KEY = ""
 
 
 def check_news():
